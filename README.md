@@ -1,7 +1,7 @@
-🚀 RiskWise
+🚀 ChainPulse
 AI-Powered Supply Chain Risk Intelligence Platform
 
-RiskWise is an AI-driven predictive analytics platform designed to monitor global supply chains and detect disruptions before they occur. The system integrates data from multiple global sources and uses multi-agent AI models to analyze patterns, predict risks, and recommend proactive actions.
+ChainPulse is an AI-driven predictive analytics platform designed to monitor global supply chains and detect disruptions before they occur. The system integrates data from multiple global sources and uses multi-agent AI models to analyze patterns, predict risks, and recommend proactive actions.
 
 📌 Problem Statement
 
@@ -13,7 +13,7 @@ Additionally, supply chain data is fragmented across multiple platforms, includi
 
 💡 Proposed Solution
 
-RiskWise provides an AI-powered predictive intelligence system that continuously monitors supply chain signals and identifies potential disruptions in advance.
+ChainPulse provides an AI-powered predictive intelligence system that continuously monitors supply chain signals and identifies potential disruptions in advance.
 
 The platform:
 
@@ -25,7 +25,7 @@ Helps organizations shift from reactive supply chain management to proactive ris
 
 🏗 System Architecture
 
-RiskWise follows a multi-layer architecture:
+ChainPulse follows a multi-layer architecture:
 
 Global Data Sources
         ↓
@@ -79,7 +79,7 @@ AWS, Docker, Kubernetes
 
 🤖 AI/ML Models Used
 
-RiskWise uses multiple AI and ML techniques:
+ChainPulse uses multiple AI and ML techniques:
 
 Time Series Forecasting (LSTM) – Predict port congestion trends
 Natural Language Processing (Transformers) – Analyze news and geopolitical signals
@@ -89,7 +89,7 @@ Reinforcement Learning – Optimize decision-making strategies
 
 🌍 Data Sources
 
-RiskWise integrates 50+ global data streams, including:
+ChainPulse integrates 50+ global data streams, including:
 
 Shipping APIs (MarineTraffic)
 Weather APIs (NOAA, NASA)
@@ -104,7 +104,7 @@ These sources provide real-time insights into global supply chain activity.
 
 Scenario: Semiconductor Supply Chain Disruption
 
-RiskWise detects worsening drought conditions in Taiwan
+ChainPulse detects worsening drought conditions in Taiwan
 AI predicts possible chip production reduction
 The system alerts companies before shortages occur
 Businesses can pre-order inventory or switch suppliers
@@ -115,7 +115,7 @@ Organizations avoid millions of dollars in production losses.
 ⭐ Key Advantages
 
 
-RiskWise provides several advantages over traditional systems:
+ChainPulse provides several advantages over traditional systems:
 
 Feature	Traditional Systems	RiskWise
 Prediction	Reactive	Predictive AI
@@ -126,7 +126,7 @@ Decision Support	Basic alerts	Actionable recommendations
 
 🌱 Sustainability
 
-RiskWise supports sustainable supply chain management by:
+ChainPulse supports sustainable supply chain management by:
 
 Reducing logistics inefficiencies
 Preventing resource waste caused by disruptions
